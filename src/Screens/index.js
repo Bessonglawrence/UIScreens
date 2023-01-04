@@ -1,9 +1,9 @@
-import { AppHome, RentFlicker, SocialApp} from './HomeScreens';
+import { AppHome, RentFlicker, SocialApp } from './HomeScreens';
 import { DesignedLogin, LoginHome, MiniLogin, RoundLogin } from './LoginScreens';
 import { ProfileHome, PlainProfile, PurpleProfile } from './ProfileScreens';
 
 
-export default {
+export {
     AppHome,
     RentFlicker,
     SocialApp,
